@@ -1,4 +1,4 @@
-# Ant-Colony-Simulation-V2.0
+# Pheromone-Simulation-V2.0
 
 ## Overview
 An ant colony simulation where ants spawn from a colony and try to find and deposit food in a ant pheromone style. 
