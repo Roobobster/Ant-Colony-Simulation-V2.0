@@ -2,7 +2,7 @@
 
 ## Overview
 An ant colony simulation where ants spawn from a colony and try to find and deposit food in a ant pheromone style. 
-This is a reworked project I have worked on before called Ant-Colony-Simulation V1.0.
+This is a reworked project I have worked on before called Pheromone-Simulation V1.0.
 
 This version contains a lot more efficient structure and expandable code. The path following is more intelligent than last time and the properties for the ants are very customisable.
 The ants now drop a visible trail although the ants will scense a world grid which they place the scents on for optimisation so that overlapping scents don't waste computation power.
